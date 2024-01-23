@@ -1,0 +1,33 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px;
+    font-size: medium;
+    font-family: Cambria;
+
+
+
+
+}
+td,th{
+    border: 5px solid #3d5417;
+    padding: 15px;
+
+}
+h2{
+    text-align: center;
+
+}
+th{ font-size: larger;
+}
+
+th{
+    font-size: larger;color: rebeccapurple;
+}
+tr:nth-child(even){
+    background: goldenrod;}
+
+
+body{
+    background-image: url("");
+}

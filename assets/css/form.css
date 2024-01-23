@@ -1,0 +1,46 @@
+body{
+    font-family: Arial sans-serif;
+    background-color: #794d38;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#form\ container{
+    background-color: darkslategray;
+    padding:20px ;
+    border-radius: 8px;
+    box-shadow:0 0 10px rgb(0,0,0,0.1) ;
+    width:500px ;
+
+}
+.form group{
+    display: block;
+    margin: 8px;
+    font-weight: bolder;
+
+}
+label{
+    display: block;
+    margin: 8px;
+    font-weight: bolder;
+}
+button{
+    background-color: cyan;
+    color: darkcyan;
+    padding: 10px 5px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 4px;
+    box-shadow:0 0 10px rgb(0,0,0,0.1)
+
+
+}
+
+
+
+
+
+
